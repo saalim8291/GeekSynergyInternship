@@ -1,0 +1,29 @@
+.card-grid {
+    width: 80vw;
+    height: 90vh;
+    display: grid;
+    gap: 30px;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 0 auto;
+    padding-right: 20px;
+  }
+  
+  .logout {
+    position: absolute;
+    right: 122px;
+    top: 20px;
+  }
+  
+  @media (max-width: 750px) {
+    .card-grid {
+      gap: 15px;
+      grid-template-columns: repeat(1, 1fr);
+      padding: 0;
+      width: 90vw;
+    }
+    .logout {
+      right: 5px;
+      top: 30px;
+      height: 31px;
+    }
+  }

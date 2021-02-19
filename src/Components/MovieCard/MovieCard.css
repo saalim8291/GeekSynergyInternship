@@ -1,0 +1,79 @@
+.arrow-up {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+  
+    border-bottom: 10px solid black;
+  }
+  .arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+  
+    border-top: 10px solid black;
+  }
+  .main {
+    height: 220px;
+    width: 400px;
+    background-color: rgb(107, 185, 216);
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    border-radius: 25px;
+  }
+  .voting {
+    /* position: absolute; */
+    height: 165px;
+    width: 20%;
+  }
+  .up-down {
+    margin: 65px auto 0 auto;
+    width: 20px;
+  }
+  
+  .movie-container {
+    height: 150px;
+    width: 80%;
+    display: flex;
+    padding: 10px 8px 5px 0;
+  }
+  .card-conatiner {
+    display: flex;
+  }
+  
+  .movie-container > img {
+    height: 150px;
+    width: 100px;
+  }
+  .name-and-description {
+    padding: 0 0 0 10px;
+    text-align: left;
+  }
+  .name-and-description > div {
+    font-size: 14px;
+  }
+  .heading {
+    padding: 0;
+    margin: 0 0 8px 0;
+    font-size: 14px;
+  }
+  .veiw-vote {
+    color: rgb(141, 10, 10);
+  }
+  .trailer {
+    width: 90%;
+    height: 40px;
+    background-color: navy;
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  @media (max-width: 750px) {
+    .main {
+      width: 100%;
+    }
+    .name-and-description > div {
+      font-size: 13px;
+    }
+  }
