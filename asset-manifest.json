@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GeekSynergyInternship/static/css/main.c937c336.chunk.css",
+    "main.js": "/GeekSynergyInternship/static/js/main.7b080cda.chunk.js",
+    "main.js.map": "/GeekSynergyInternship/static/js/main.7b080cda.chunk.js.map",
+    "runtime-main.js": "/GeekSynergyInternship/static/js/runtime-main.54d07232.js",
+    "runtime-main.js.map": "/GeekSynergyInternship/static/js/runtime-main.54d07232.js.map",
+    "static/js/2.45c86ec4.chunk.js": "/GeekSynergyInternship/static/js/2.45c86ec4.chunk.js",
+    "static/js/2.45c86ec4.chunk.js.map": "/GeekSynergyInternship/static/js/2.45c86ec4.chunk.js.map",
+    "static/js/3.bae9f4d0.chunk.js": "/GeekSynergyInternship/static/js/3.bae9f4d0.chunk.js",
+    "static/js/3.bae9f4d0.chunk.js.map": "/GeekSynergyInternship/static/js/3.bae9f4d0.chunk.js.map",
+    "index.html": "/GeekSynergyInternship/index.html",
+    "static/css/main.c937c336.chunk.css.map": "/GeekSynergyInternship/static/css/main.c937c336.chunk.css.map",
+    "static/js/2.45c86ec4.chunk.js.LICENSE.txt": "/GeekSynergyInternship/static/js/2.45c86ec4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/GeekSynergyInternship/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54d07232.js",
+    "static/js/2.45c86ec4.chunk.js",
+    "static/css/main.c937c336.chunk.css",
+    "static/js/main.7b080cda.chunk.js"
+  ]
+}
